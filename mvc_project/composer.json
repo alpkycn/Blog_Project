@@ -1,0 +1,10 @@
+{
+    "name": "kullanici/mvc-project",
+    "description": "Basit bir PHP MVC yapısı",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
