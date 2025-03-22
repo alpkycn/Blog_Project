@@ -1,6 +1,6 @@
 {
-    "name": "kullanici/mvc-project",
-    "description": "Basit bir PHP MVC yapısı",
+    "name": "user/mvc-project",
+    "description": "This is based on PHP MVC",
     "require": {},
     "autoload": {
         "psr-4": {
